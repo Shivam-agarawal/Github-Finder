@@ -95,4 +95,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Built with ❤️ by [Shivam Agarwal](https://github.com/Shivam-agarawal)
+Built with ❤️ by [Shivam Agrawal](https://github.com/Shivam-agarawal)
